@@ -70,7 +70,7 @@
     "proxy-addr": "^2.0.6",
     "pump": "^3.0.0",
     "punycode": "^1.4.1",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "quick-format-unescaped": "^3.0.3",
     "range-parser": "^1.2.1",
     "raw-body": "^2.4.0",
